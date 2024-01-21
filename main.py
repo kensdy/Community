@@ -47,6 +47,6 @@ def create_post():
     return render_template("create_post.html")
 
 if __name__ == "__main__":
-    app.run(host='0.0.0.0', port=81)
+    app.run(host='0.0.0.0', port=57367)
 
 #app.run(host='0.0.0.0', port=81)
