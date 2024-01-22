@@ -43,13 +43,13 @@ Confira este vídeo tutorial que demonstra a instalação e apresenta uma visão
 
 ## Imagens do Site
 
-### Página de Postagens
-
-![Página de Postagens](post.jpg)
-
 ### Página Inicial
 
 ![Página Inicial](home.png)
+
+### Página de Postagens
+
+![Página de Postagens](post.jpg)
 
 ### Página de Comentários
 
