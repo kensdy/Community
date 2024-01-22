@@ -39,6 +39,7 @@ def create_post():
             "content": content,
             "author": author,
             "timestamp": datetime.now(),
+            "comments": []  # Inicialize a chave 'comments' como uma lista vazia
         }
         posts.append(new_post)
 
