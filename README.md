@@ -45,15 +45,15 @@ Confira este vídeo tutorial que demonstra a instalação e apresenta uma visão
 
 ### Página de Postagens
 
-![Página de Postagens](caminho/para/post.jpg)
+![Página de Postagens](post.jpg)
 
 ### Página Inicial
 
-![Página Inicial](caminho/para/home.png)
+![Página Inicial](home.png)
 
 ### Página de Comentários
 
-![Página de Comentários](caminho/para/comentario.png)
+![Página de Comentários](comentario.png)
 
 ## Contribuições
 
