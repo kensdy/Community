@@ -7,8 +7,8 @@ app = Flask(__name__)
 
 # Dados de exemplo para simular posts
 posts = [
- #   {"id": 1, "title": "Post 1", "content": "Conteúdo do Post 1", "author": "Autor 1", "timestamp": datetime.now(), "comments": []},
- #   {"id": 2, "title": "Post 2", "content": "Conteúdo do Post 2", "author": "Autor 2", "timestamp": datetime.now(), "comments": []},
+    {"id": 1, "title": "Post 1", "content": "Conteúdo do Post 1", "author": "Autor 1", "timestamp": datetime.now(), "comments": []},
+    {"id": 2, "title": "Post 2", "content": "Conteúdo do Post 2", "author": "Autor 2", "timestamp": datetime.now(), "comments": []},
 ]
 
 @app.route("/")
