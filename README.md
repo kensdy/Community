@@ -41,6 +41,19 @@ Confira este vídeo tutorial que demonstra a instalação e apresenta uma visão
 
 [![Tutorial em Vídeo](https://img.youtube.com/vi/j09MK7o5NCU/0.jpg)](https://www.youtube.com/watch?v=j09MK7o5NCU)
 
+## Imagens do Site
+
+### Página de Postagens
+
+![Página de Postagens](caminho/para/post.jpg)
+
+### Página Inicial
+
+![Página Inicial](caminho/para/home.png)
+
+### Página de Comentários
+
+![Página de Comentários](caminho/para/comentario.png)
 
 ## Contribuições
 
