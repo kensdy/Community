@@ -1,6 +1,6 @@
 # Community - Modelo de Fórum em Flask
 
-![Visitas ao Repositório](https://img.shields.io/github/visits/kensdy/Community?style=flat-square&label=Visitas&color=blue)
+[![Repository Views](https://komarev.com/ghpvc/?username=kensdycommunity&label=Views&color=brightgreen)](https://github.com/kensdy/Community)
 
 O Community é um modelo de fórum desenvolvido em Flask, oferecendo uma estrutura simples e aberta para implementação de sistemas de discussão online. Este projeto é open source e pode ser facilmente personalizado para atender às necessidades específicas de diferentes comunidades online.
 
