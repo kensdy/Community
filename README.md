@@ -1,70 +1,71 @@
-# Community - Modelo de Fórum em Flask
 
-Português | [English](README_en.md)
+# Community - Flask Forum Template
+
+[Português](README_pt.md) | English
 
 [![Repository Views](https://komarev.com/ghpvc/?username=kensdycommunity&label=Views&color=brightgreen)](https://github.com/kensdy/Community)
 
-O Community é um modelo de fórum desenvolvido em Flask, oferecendo uma estrutura simples e aberta para implementação de sistemas de discussão online. Este projeto é open source e pode ser facilmente personalizado para atender às necessidades específicas de diferentes comunidades online.
+Community is a forum template developed in Flask, providing a simple and open structure for implementing online discussion systems. This project is open source and can be easily customized to meet the specific needs of different online communities.
 
-## Funcionalidades
+## Features
 
-- **Postagens e Comentários:** Os usuários podem criar postagens e interagir por meio de comentários, proporcionando uma experiência de discussão dinâmica.
+- **Posts and Comments:** Users can create posts and interact through comments, providing a dynamic discussion experience.
 
-- **Sem Sistema de Login:** O Community, por padrão, não possui um sistema de login. Isso simplifica o acesso, mas também significa que a identidade do usuário não é verificada.
+- **No Login System:** By default, Community does not have a login system. This simplifies access but also means that user identity is not verified.
 
-- **Sem Banco de Dados:** Este modelo não utiliza um banco de dados para armazenar postagens ou comentários. Tenha em mente que, ao reiniciar o servidor, todas as postagens serão perdidas.
+- **No Database:** This template does not use a database to store posts or comments. Keep in mind that, upon restarting the server, all posts will be lost.
 
-## Como Usar
+## How to Use
 
-1. **Pré-requisitos:**
-   - Certifique-se de ter o Python instalado em sua máquina.
+1. **Prerequisites:**
+   - Ensure that you have Python installed on your machine.
 
-2. **Clonando o Repositório:**
-   - Execute o seguinte comando para clonar o repositório:
+2. **Cloning the Repository:**
+   - Run the following command to clone the repository:
      ```bash
      git clone https://github.com/kensdy/Community
      ```
-3. **Executando o Aplicativo:**
-   - Navegue para o diretório recém-clonado com `cd Community`.
-   - Instale as dependências usando `pip install -r requirements.txt`.
-   - Execute `python main.py` para iniciar o servidor local.
-   - Acesse `http://localhost:5000` em seu navegador para interagir com o fórum.
+3. **Running the Application:**
+   - Navigate to the newly cloned directory with `cd Community`.
+   - Install dependencies using `pip install -r requirements.txt`.
+   - Run `python main.py` to start the local server.
+   - Access `http://localhost:5000` in your browser to interact with the forum.
 
-4. **Personalização:**
-   - Adapte o código-fonte para atender às suas necessidades específicas.
-   - Considere implementar um sistema de login ou integração com um banco de dados, se necessário.
+4. **Customization:**
+   - Adapt the source code to meet your specific needs.
+   - Consider implementing a login system or integrating with a database if necessary.
 
-## Tutorial em Vídeo
+## Video Tutorial
 
-Confira este vídeo tutorial que demonstra a instalação e apresenta uma visão geral do Community. O vídeo inclui:
+Check out this video tutorial demonstrating installation and providing an overview of Community. The video includes:
 
-- Instruções passo a passo para instalar o Community.
-- Uma breve demonstração das funcionalidades principais.
+- Step-by-step instructions for installing Community.
+- A brief demonstration of key features.
 
-[![Tutorial em Vídeo](https://img.youtube.com/vi/j09MK7o5NCU/0.jpg)](https://www.youtube.com/watch?v=j09MK7o5NCU)
+[![Video Tutorial](https://img.youtube.com/vi/j09MK7o5NCU/0.jpg)](https://www.youtube.com/watch?v=j09MK7o5NCU)
 
-## Imagens do Site
+## Site Images
 
-### Página Inicial
+### Home Page
 
-![Página Inicial](home.png)
+![Home Page](home.png)
 
-### Página de Postagens
+### Post Page
 
-![Página de Postagens](post.jpg)
+![Post Page](post.jpg)
 
-### Página de Comentários
+### Comments Page
 
-![Página de Comentários](comentario.png)
+![Comments Page](comentario.png)
 
-## Contribuições
+## Contributions
 
-Contribuições são bem-vindas! Se você deseja melhorar o Community, sinta-se à vontade para abrir issues ou enviar pull requests.
+Contributions are welcome! If you want to improve Community, feel free to open issues or submit pull requests.
 
-## Licença
+## License
 
-Este projeto é licenciado sob a [Licença MIT](LICENSE) - veja o arquivo LICENSE para mais detalhes.
+This project is licensed under the [MIT License](LICENSE) - see the LICENSE file for more details.
 
-## Agradecimentos
+## Acknowledgments
 
-Agradecemos por utilizar o Community. Esperamos que seja útil como ponto de partida para suas implementações de fóruns online.
+Thank you for using Community. We hope it serves as a useful starting point for your online forum implementations.
