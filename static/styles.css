@@ -128,3 +128,93 @@ body {
 .back-to-list-link a:hover {
     text-decoration: underline;
 }
+
+.comments-section {
+    margin-top: 20px;
+    padding: 20px;
+    background-color: #292A2E;
+    border-radius: 10px;
+    box-shadow: 0 0 0px rgba(0, 0, 0, 0.1);
+    max-width: calc(100% - 40px); /* 20px de cada lado para padding */
+}
+
+.comments-section h2 {
+    color: #E67030;
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+.comments-section li {
+    margin-bottom: 8px; /* Adicione este espaçamento entre os comentários */
+}
+
+.comment-form {
+    margin-top: 20px;
+}
+
+.comment-form label {
+    display: block;
+    font-size: 14px;
+    margin-bottom: 5px;
+    color: #FFFFFF;
+}
+.comment-form input,
+.comment-form textarea {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 15px;
+    border: 1px solid #555;
+    border-radius: 5px;
+    background-color: #1E1F21;
+    color: #FFFFFF;
+}
+
+.comment-form button {
+    background-color: #E67030;
+    color: #FFFFFF;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+.comment-form button:hover {
+    background-color: #F55941;
+}
+
+.comment-form h3 {
+    font-size: 18px;
+    color: #E67030;
+    margin-bottom: 10px;
+}
+
+.form-buttons {
+    display: flex;
+    justify-content: space-between;
+}
+
+.form-buttons button,
+.form-buttons a {
+    padding: 8px 15px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 14px;
+    text-decoration: none;
+}
+
+.form-buttons button {
+    background-color: #E67030;
+    color: #FFFFFF;
+}
+
+.form-buttons a {
+    background-color: #555;
+    color: #FFFFFF;
+}
+
+.form-buttons button:hover,
+.form-buttons a:hover {
+    background-color: #F55941;
+}
