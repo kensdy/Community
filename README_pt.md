@@ -28,7 +28,7 @@ O Community é um modelo de fórum desenvolvido em Flask, oferecendo uma estrutu
    - Navegue para o diretório recém-clonado com `cd Community`.
    - Instale as dependências usando `pip install -r requirements.txt`.
    - Execute `python main.py` para iniciar o servidor local.
-   - Acesse `http://localhost:5000` em seu navegador para interagir com o fórum.
+   - Acesse `http://127.0.0.1:5000` em seu navegador para interagir com o fórum.
 
 4. **Personalização:**
    - Adapte o código-fonte para atender às suas necessidades específicas.
