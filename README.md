@@ -29,7 +29,7 @@ Community is a forum template developed in Flask, providing a simple and open st
    - Navigate to the newly cloned directory with `cd Community`.
    - Install dependencies using `pip install -r requirements.txt`.
    - Run `python main.py` to start the local server.
-   - Access `http://localhost:5000` in your browser to interact with the forum.
+   - Access `http://127.0.0.1:5000` in your browser to interact with the forum.
 
 4. **Customization:**
    - Adapt the source code to meet your specific needs.
