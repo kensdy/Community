@@ -1,5 +1,7 @@
 # Community - Modelo de Fórum em Flask
 
+![Visitas ao Repositório](https://img.shields.io/github/visits/kensdy/Community?style=flat-square&label=Visitas&color=blue)
+
 O Community é um modelo de fórum desenvolvido em Flask, oferecendo uma estrutura simples e aberta para implementação de sistemas de discussão online. Este projeto é open source e pode ser facilmente personalizado para atender às necessidades específicas de diferentes comunidades online.
 
 ## Funcionalidades
@@ -14,7 +16,6 @@ O Community é um modelo de fórum desenvolvido em Flask, oferecendo uma estrutu
 
 1. **Pré-requisitos:**
    - Certifique-se de ter o Python instalado em sua máquina.
-   - Instale as dependências usando `pip install -r requirements.txt`.
 
 2. **Clonando o Repositório:**
    - Execute o seguinte comando para clonar o repositório:
@@ -23,6 +24,7 @@ O Community é um modelo de fórum desenvolvido em Flask, oferecendo uma estrutu
      ```
 3. **Executando o Aplicativo:**
    - Navegue para o diretório recém-clonado com `cd Community`.
+   - Instale as dependências usando `pip install -r requirements.txt`.
    - Execute `python app.py` para iniciar o servidor local.
    - Acesse `http://localhost:5000` em seu navegador para interagir com o fórum.
 
