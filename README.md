@@ -1,4 +1,3 @@
-
 # Community - Flask Forum Template
 
 [Português](README_pt.md) | English
